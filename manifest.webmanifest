@@ -1,0 +1,12 @@
+{
+  "name": "Sankhla Opticals — a clearer kind of everyday",
+  "short_name": "Sankhla Opticals",
+  "description": "Thoughtful eyewear, independent eye care, and complimentary eye tests.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f5ef",
+  "theme_color": "#344a3f",
+  "icons": [
+    { "src": "assets/sankhla-opticals.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

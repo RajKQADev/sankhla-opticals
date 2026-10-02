@@ -1,0 +1,7 @@
+data/
+*.zip
+.env
+node_modules/
+android/build/
+assets/goodwheels-icon.svg
+assets/playwright-course-cover.png
